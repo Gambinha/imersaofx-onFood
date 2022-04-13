@@ -1,0 +1,4 @@
+Por que usar NextJS Framework?
+- Experiência avançado ao usuário
+- Rotas dinâmicas
+- Lida melhor com imagens, rotas, etc
