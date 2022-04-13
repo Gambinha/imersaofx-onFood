@@ -2,3 +2,5 @@ Por que usar NextJS Framework?
 - Experiência avançado ao usuário
 - Rotas dinâmicas
 - Lida melhor com imagens, rotas, etc
+- Carregamento de rotas automática => basta criar dentro da pasta "pages"
+- Para parâmetros na URL, utilizar [var].tsx

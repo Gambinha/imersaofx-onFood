@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@400;700&family=Open+Sans:wght@400;600;700&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+    --background: #F5F5F5;
+    --text-color-primary: #182135;
+    --text-color-secondary: #3f3f3f;
+    --primary: #503e9d;
+}
+
+body {
+    background-color: var(--background);
+}
